@@ -1,9 +1,8 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Microcontroller programming 
-- 💬 Ask me about ...
+- 🔭 I’m currently working on Microcontroller programming, Robotics, Controlling.
 - 📫 How to reach me: zyshine3@sjtu.edu.cn
 - 😄 Pronouns: He
-- ⚡ Fun fact: ...
+
 
 <!--
 **caneatonly/caneatonly** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
