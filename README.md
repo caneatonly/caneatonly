@@ -1,5 +1,5 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Microcontroller programming, Robotics, Controlling.
+- 🔭 I’m currently working on Microcontroller programming, Robotics, Controlling（especially underwater robotics).
 - 📫 How to reach me: zyshine3@sjtu.edu.cn
 - 😄 Pronouns: He
 
