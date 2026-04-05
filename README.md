@@ -1,5 +1,6 @@
 ## Hi there 👋
-- 🔭 I’m currently working on Microcontroller programming, Robotics, Controlling（especially underwater robotics).
+- 🔭 I’m now a undergraduate student at Shanghai Jiao Tong University.
+- My works mainly focus on Microcontroller programming, Robotics, Underwater robotics, Hydrodynamics...
 - 📫 How to reach me: zyshine3@sjtu.edu.cn
 - 😄 Pronouns: He
 
